@@ -1,0 +1,24 @@
+project;file;cyclomatic;cyclomatic density;sLOC logical;Manutenability;Halstead bugs;Hastead difficulty;Halstead effort;Halstead volume;Halstead vocabulary
+dhtmlx-react-widgets;src/popup/Popup.js;2;22.222;9;91.298;0.173;14.875;7730.278;519.683;41
+dhtmlx-react-widgets;src/popup/PopupCdn.js;3;21.429;14;86.901;0.248;16.625;12353.833;743.088;51
+dhtmlx-react-widgets;src/popup/PopupEvents.js;2;6.897;29;81.261;0.483;16.073;23304.368;1449.932;72
+dhtmlx-react-widgets;src/popup/PopupPage.js;4;15.385;26;80.807;0.598;22.301;39999.081;1793.571;95
+dev-extreme;js/ui/popup.js;91;19.158;475;66.614;7.687;62.284;1436304.179;23060.402;433
+dev-extreme;js/ui/scheduler/appointmentPopup.js;48;23.645;203;70.578;4.011;41.695;501763.808;12034.068;262
+dev-extreme;js/ui/html_editor/modules/popup.js;6;9.524;63;76.113;0.915;20.036;54980.754;2744.137;119
+ring-ui;components/date-picker/date-popup.js;82;41.206;199;63.35;3.786;89.055;1011603.822;11359.293;182
+ring-ui;components/popup/popup.examples.js;1;1.493;67;80.41;0.972;18.353;53493.461;2914.708;120
+ring-ui;components/popup/popup.js;48;27.586;174;72.866;3.244;51.611;502296.22;9732.384;216
+ring-ui;components/popup/popup.test.js;1;0.719;139;69.397;2.215;26.975;179277.902;6646.076;133
+ring-ui;components/popup/position.js;37;16.518;224;54.339;3.235;67.264;652768.645;9704.555;190
+ring-ui;components/popup/position.test.js;9;12;75;68.501;1.199;37.703;135672.017;3598.469;94
+ring-ui;components/popup-menu/popup-menu.examples.js;1;3.448;29;55.26;0.304;12.5;11396.934;911.755;56
+ring-ui;components/popup-menu/popup-menu.js;4;26.667;15;79.965;0.275;20.606;16996.302;824.821;53
+ring-ui;components/popup-menu/popup-menu.test.js;1;7.143;14;82.523;0.196;9.643;5667.762;587.768;38
+ring-ui;components/select/select__popup.js;50;35.211;142;80.594;3.931;51.633;608869.668;11792.285;257
+ring-ui;components/select/select__popup.test.js;3;3.409;88;75.799;1.187;22.638;80597.182;3560.214;110
+mumuy-widget;code/jquery.popup.js;19;21.591;88;66.47;1.153;35.034;121161.772;3458.358;111
+wijmo;wijmo/jquery.wijmo.wijpopup.js;68;32.692;208;63.29;3.646;54.863;600106.477;10938.358;200
+wijmo;wijmo/minified/jquery.wijmo.wijpopup.min.js;68;34.343;198;63.8;3.571;57.795;619188.377;10713.552;184
+kendo-ui;src/kendo.popup.js;148;27.82;532;59.993;10.3;84.242;2602988.767;30899.012;433
+jquense-react-widgets;packages/react-widgets/src/Popup.js;1;4.167;24;74.636;0.308;25.143;23257.584;925.018;55
